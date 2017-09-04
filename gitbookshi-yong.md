@@ -101,6 +101,7 @@ Permission denied (publickey).
 （如果没有配置用户名和邮箱，那么需要执行以下命令：
 git config --global user.name "XXX"
 git config --global user.email "XXX@XXX.com" ）
+cs
 ```
 
 
