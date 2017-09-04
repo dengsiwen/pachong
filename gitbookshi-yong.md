@@ -68,7 +68,7 @@ SSH ： [git](http://lib.csdn.net/base/git)@github.com:dengsiwen/spider.git
 Subversion：[https://github.com/dengsiwen/spider](https://github.com/dengsiwen/spider)
 
 ```
-本地创建一个文件，CD到该文件下，执行如下命令
+C:\Users\Administrator\GitBook\Library\Import,直接在gitbook默认目录下，删除本来的git目录，重新和github建立连接
 F:\dsw\gitbook>git init
 F:\dsw\gitbook>git clone https://github.com/dengsiwen/spider.git
 拷贝原来项目spider目录下的所有文件到该目录spider
@@ -78,6 +78,8 @@ git commit -m 'Initial commit project'
 git remote add origin https://github.com/dengsiwen/spider.git
 git push origin master
 ```
+
+![](/assets/import5.png)
 
 error: failed to push some refs to 解决办法
 
